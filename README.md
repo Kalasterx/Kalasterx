@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a student, looking forward to learn
 <!--
 **Kalasterx/Kalasterx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
